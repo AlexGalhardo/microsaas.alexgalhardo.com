@@ -64,7 +64,7 @@
             </p>
         </div>
 
-        <div class="p-6 text-center dark:bg-neutral-700">
+        <div class="p-6 text-center">
             <span>© 2024 Copyright </span>
             <a class="font-semibold text-green-600 dark:text-neutral-400" href="https://alexgalhardo.com">
                 AlexGalhardo
