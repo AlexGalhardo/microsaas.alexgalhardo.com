@@ -9,7 +9,7 @@
                 <li>
                     <a
                         href="/"
-                        class="flex items-center p-2 rounded-lg group"
+                        class="flex items-center p-2 rounded-lg hover:bg-gray-200 group"
                     >
                         <i class="bi bi-clipboard-data"></i>
                         <span class="flex-1 ms-3 whitespace-nowrap">Home</span>
@@ -18,7 +18,7 @@
                 <li>
                     <a
                         href="#"
-                        class="flex items-center p-2 rounded-lg group"
+                        class="flex items-center p-2 rounded-lg hover:bg-gray-100 group"
                     >
                         <i class="bi bi-mailbox"></i>
                         <span class="flex-1 ms-3 whitespace-nowrap">Transactions</span>
@@ -31,7 +31,7 @@
                 <li>
                     <a
                         href="#"
-                        class="flex items-center p-2 rounded-lg group"
+                        class="flex items-center p-2 rounded-lg hover:bg-gray-200 group"
                     >
                         <i class="bi bi-person-fill-gear"></i>
                         <span class="flex-1 ms-3 whitespace-nowrap">Customers</span>
