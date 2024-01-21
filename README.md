@@ -2,6 +2,8 @@
  <h1 align="center"><a href="https://microsaas.alexgalhardo.com/" target="_blank">microsaas.alexgalhardo.com</a></h1>
 </div>
 
+https://github.com/AlexGalhardo/microsaas.alexgalhardo.com/assets/19540357/0eebb3fd-3368-4fb3-9bdd-d131fc961db6
+
 ## Introduction
 
 * A simple project build with VueJS v3 templates, to import .xlsx and .csv files to a NestJS REST API and rendering Chart.js with MRR and Churn Rate data.
