@@ -9,7 +9,7 @@
                 <li>
                     <a
                         href="/"
-                        class="flex items-center p-2 text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group"
+                        class="flex items-center p-2 rounded-lg group"
                     >
                         <i class="bi bi-clipboard-data"></i>
                         <span class="flex-1 ms-3 whitespace-nowrap">Home</span>
@@ -18,7 +18,7 @@
                 <li>
                     <a
                         href="#"
-                        class="flex items-center p-2 text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group"
+                        class="flex items-center p-2 rounded-lg group"
                     >
                         <i class="bi bi-mailbox"></i>
                         <span class="flex-1 ms-3 whitespace-nowrap">Transactions</span>
@@ -31,7 +31,7 @@
                 <li>
                     <a
                         href="#"
-                        class="flex items-center p-2 text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group"
+                        class="flex items-center p-2 rounded-lg group"
                     >
                         <i class="bi bi-person-fill-gear"></i>
                         <span class="flex-1 ms-3 whitespace-nowrap">Customers</span>
@@ -42,7 +42,7 @@
                 <li>
                     <a
                         href="#"
-                        class="flex items-center p-2 text-gray-900 transition duration-75 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 dark:text-white group"
+                        class="flex items-center p-2 transition duration-75 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 dark:text-white group"
                     >
                         <i class="bi bi-fire"></i>
                         <span class="ms-3">Upgrade to Pro</span>
@@ -51,7 +51,7 @@
                 <li>
                     <a
                         href="#"
-                        class="flex items-center p-2 text-gray-900 transition duration-75 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 dark:text-white group"
+                        class="flex items-center p-2 transition duration-75 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 dark:text-white group"
                     >
                         <i class="bi bi-code"></i>
                         <span class="ms-3">API Documentation</span>
@@ -60,7 +60,7 @@
                 <li>
                     <a
                         href="#"
-                        class="flex items-center p-2 text-gray-900 transition duration-75 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 dark:text-white group"
+                        class="flex items-center p-2 transition duration-75 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 dark:text-white group"
                     >
                         <i class="bi bi-cone-striped"></i>
                         <span class="ms-3">FAQ</span>
@@ -69,7 +69,7 @@
                 <li>
                     <a
                         href="#"
-                        class="flex items-center p-2 text-gray-900 transition duration-75 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 dark:text-white group"
+                        class="flex items-center p-2 transition duration-75 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 dark:text-white group"
                     >
                         <i class="bi bi-envelope"></i>
                         <span class="ms-3">Support</span>
@@ -79,7 +79,7 @@
                     <a
                         href="https://github.com/AlexGalhardo/microsaas.alexgalhardo.com"
                         target="_blank"
-                        class="flex items-center p-2 text-gray-900 transition duration-75 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 dark:text-white group"
+                        class="flex items-center p-2 transition duration-75 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 dark:text-white group"
                     >
                         <i class="bi bi-github"></i>
                         <span class="ms-3">Source Code</span>
