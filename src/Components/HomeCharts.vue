@@ -16,7 +16,7 @@
 
     <div
         v-if="uploadedMessage"
-        class="text-center p-4 mb-4 text-lg text-green-800 rounded-lg bg-green-50 dark:bg-gray-800 dark:text-green-400"
+        class="text-center p-4 mb-4 text-lg text-green-800 rounded-lg bg-green-50"
         role="alert"
     >
         <p class="font-extrabold">{{ uploadedMessage }}</p>
@@ -24,7 +24,7 @@
 
     <div
         v-if="errorMessage"
-        class="text-center p-4 mb-4 text-lg text-red-800 rounded-lg bg-red-50 dark:bg-gray-800 dark:text-red-400"
+        class="text-center p-4 mb-4 text-lg text-red-800 rounded-lg bg-red-50"
         role="alert"
     >
         <p class="font-extrabold">{{ errorMessage }}</p>

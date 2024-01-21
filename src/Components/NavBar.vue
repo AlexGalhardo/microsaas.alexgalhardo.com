@@ -8,7 +8,7 @@
                         data-drawer-toggle="logo-sidebar"
                         aria-controls="logo-sidebar"
                         type="button"
-                        class="inline-flex items-center p-2 text-sm text-gray-500 rounded-lg sm:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600"
+                        class="inline-flex items-center p-2 text-sm text-gray-500 rounded-lg sm:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200"
                     >
                         <span class="sr-only">Open sidebar</span>
                         <svg
@@ -27,7 +27,7 @@
                     </button>
 
                     <a href="http://localhost:5173/churn-rate" class="flex ms-2 md:me-24">
-                        <span class="self-center text-xl font-semibold sm:text-2xl whitespace-nowrap dark:text-white"
+                        <span class="self-center text-xl font-semibold sm:text-2xl whitespace-nowrap"
                             >Galhardo MicroSaaS</span
                         >
                     </a>
@@ -38,7 +38,7 @@
                         <div>
                             <button
                                 type="button"
-                                class="flex text-sm bg-gray-800 rounded-full focus:ring-4 focus:ring-gray-300 dark:focus:ring-gray-600"
+                                class="flex text-sm bg-gray-800 rounded-full focus:ring-4 focus:ring-gray-300"
                                 aria-expanded="false"
                                 data-dropdown-toggle="dropdown-user"
                             >
@@ -52,12 +52,12 @@
                         </div>
 
                         <div
-                            class="z-50 hidden my-4 text-base list-none bg-white divide-y divide-gray-100 rounded shadow dark:bg-gray-700 dark:divide-gray-600"
+                            class="z-50 hidden my-4 text-base list-none bg-white divide-y divide-gray-100 rounded shadow"
                             id="dropdown-user"
                         >
                             <div class="px-4 py-3" role="none">
-                                <p class="text-sm text-gray-900 dark:text-white" role="none">Hello, Alex Galhardo</p>
-                                <p class="text-sm font-medium text-gray-900 truncate dark:text-gray-300" role="none">
+                                <p class="text-sm text-gray-900" role="none">Hello, Alex Galhardo</p>
+                                <p class="text-sm font-medium text-gray-900 truncate" role="none">
                                     aleexgvieira@gmail.com
                                 </p>
                             </div>
@@ -65,7 +65,7 @@
                                 <li>
                                     <a
                                         href="#"
-                                        class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 dark:text-gray-300 dark:hover:bg-gray-600 dark:hover:text-white"
+                                        class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
                                         role="menuitem"
                                         >Update Profile</a
                                     >
@@ -73,7 +73,7 @@
                                 <li>
                                     <a
                                         href="#"
-                                        class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 dark:text-gray-300 dark:hover:bg-gray-600 dark:hover:text-white"
+                                        class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
                                         role="menuitem"
                                         >Logout</a
                                     >
