@@ -133,8 +133,7 @@ export default {
             formData.append("file", file);
 
             try {
-                // const response = await fetch(`${import.meta.env.VITE_DNS_MICROSAAS_API}/import-file`, {
-                const response = await fetch(`https://api-microsaas.alexgalhardo.com/import-file`, {
+                const response = await fetch(`${import.meta.env.VITE_DNS_API_MICROSAAS}/import-file`, {
                     method: "POST",
                     body: formData,
                 });
