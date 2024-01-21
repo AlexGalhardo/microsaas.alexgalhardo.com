@@ -26,11 +26,12 @@
                         </svg>
                     </button>
 
-                    <a href="http://localhost:5173/churn-rate" class="flex ms-2 md:me-24">
-                        <span class="self-center text-xl font-semibold sm:text-2xl whitespace-nowrap"
-                            >Galhardo MicroSaaS</span
-                        >
+                    <a href="/" class="flex ms-2 md:me-24">
+                        <span class="self-center text-3xl font-extrabold sm:text-4xl whitespace-nowrap bg-gradient-to-r from-green-500 to-blue-500 text-transparent bg-clip-text">
+                            Galhardo MicroSaaS
+                        </span>
                     </a>
+
                 </div>
 
                 <div class="flex items-center">
