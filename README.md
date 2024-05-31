@@ -48,12 +48,12 @@ chmod +x setup.sh && ./setup.sh
 ## Build for deploy
 a. Create build
 ```
-npm run build
+bun run build
 ```
 
 b. Test build server
 ```
-npm run preview
+bun run preview
 ```
 
 ## Documentation
