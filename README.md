@@ -13,12 +13,11 @@ https://github.com/AlexGalhardo/microsaas.alexgalhardo.com/assets/19540357/0eebb
 ## Technologies
 
 * [VueJS v3 Templates](https://vuejs.org/)
-* [Git](https://git-scm.com/)
 * [Vite v5](https://vitejs.dev/)
 * [FlowBite](https://flowbite.com/)
 * [TailwindCSS](https://tailwindcss.com/)
 * [ChartJS](https://www.chartjs.org/)
-* [NodeJS v20](https://nodejs.org/en)
+* [Bun](https://bun.sh/)
 * [VSCode](https://code.visualstudio.com/)
    - Plugins:
       - <https://marketplace.visualstudio.com/items?itemName=octref.vetur>
@@ -26,71 +25,36 @@ https://github.com/AlexGalhardo/microsaas.alexgalhardo.com/assets/19540357/0eebb
 	  - <https://marketplace.visualstudio.com/items?itemName=hollowtree.vue-snippets>
 	  - <https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets>
 
+## Prerequisites
+- Have **bun** isntalled: <https://bun.sh/docs/installation>
+
 ## Development Setup Local
 
 1. Clone this repository
-
-<!---->
-
-```
-git clone https://github.com/AlexGalhardo/microsaas.alexgalhardo.com
+```bash
+git clone https://github.com/AlexGalhardo/api-microsaas.alexgalhardo.com
 ```
 
 2. Enter repository
-
-<!---->
-
-```
-cd microsaas.alexgalhardo.com/
+```bash
+cd api-microsaas.alexgalhardo.com/
 ```
 
-3. Install dependencies
-
-<!---->
-
+3. Run setup.sh
+```bash
+chmod +x setup.sh && ./setup.sh
 ```
-npm install
-```
-
-4. Create .env file
-
-<!---->
-
-```
-cp .env.development .env
-```
-
-5. Start local server
-
-<!---->
-
-```
-npm run dev
-```
-
-6. Go to: <http://localhost:5173/>
 
 ## Build for deploy
-
-* Create build
-
-<!---->
-
+a. Create build
 ```
 npm run build
 ```
 
-* Preview production build
-
-<!---->
-
+b. Test build server
 ```
 npm run preview
 ```
-
-* Go to: <http://localhost:4173/>
-
-<!---->
 
 ## Documentation
 - You can see and add important documentation about this code repository in the [docs/](./docs/) folder
